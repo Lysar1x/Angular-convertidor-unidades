@@ -1,1 +1,10 @@
-<p>convertidor works!</p>
+<h1>Convertidor de Unidades</h1>
+<div class="input-group">
+    <label>Metros:</label>
+    <input type="number" [(ngModel)]="metros" (input)="convertiraPies()">
+</div>
+<div class="input-group">
+    <label>Pies:</label>
+    <input type="number" [(ngModel)]="pies" (input)="convertiraMetros()">
+
+</div>

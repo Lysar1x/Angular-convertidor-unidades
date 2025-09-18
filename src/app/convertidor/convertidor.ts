@@ -11,4 +11,9 @@ import { FormsModule } from '@angular/forms';
 export class Convertidor {
   metros: number=0;
   pies: number=0;
+  convertiraPies(){
+    this.pies = this.metros * 3.28084;
 }
+convertiraMetros(){
+    this.metros = this.pies / 3.28084;
+}}
