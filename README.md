@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ConvertidorUnidades
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Angular-convertidor-unidades
+Aplicación de práctica en Angular para la conversión de unidades de medida (metros a pies y viceversa).  Este proyecto se enfoca en la implementación y dominio del binding de datos de doble vía ([(ngModel)]), demostrando la sincronización automática de la interfaz de usuario con los datos del componente en tiempo real. 
+>>>>>>> 08fd9841143b4d2423655eebb542ce030acc87df
